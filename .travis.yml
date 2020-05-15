@@ -21,4 +21,4 @@ deploy:
 
 
     access_key_id: \$AWSKEY
-    secret_acess_key: "\$AWSSECRET"
+    secret_acess_key: '\$AWSSECRET'

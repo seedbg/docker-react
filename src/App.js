@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Obicham te kote 
+          I was changed on the feature brach
               
         </p>
         <a
